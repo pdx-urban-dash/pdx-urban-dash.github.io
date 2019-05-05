@@ -72,6 +72,7 @@ and React stack.
   - #30 AddGraphQL queries
   - #31 Create resolvers for GraphQL queries
   - ✅#61 Create filter UI elements
+  - ✅Add readme entry for setting GID and yarn install in the container.
   - 
 
 ### Code Clean-up Week
